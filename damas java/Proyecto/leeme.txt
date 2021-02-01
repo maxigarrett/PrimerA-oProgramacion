@@ -1,0 +1,9 @@
+Juego de damas
+version: 1.0
+Autor: Freddy González
+
+Se recomienda leer el archivo "Manual de usuario.pdf" antes de
+ejecutar la aplicación.
+
+Para ejecutar el programa seguir la ruta:
+"\Ejecutable\Damas.jar"
